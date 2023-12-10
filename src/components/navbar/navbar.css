@@ -1,0 +1,61 @@
+.logo {
+  width: 10.25rem;
+}
+
+nav {
+  z-index: 2;
+}
+
+/*------ MENU LINKS -------*/
+.container,.navbar{
+  background-color: white !important;
+  width: 100%;
+}
+
+.navbar{
+  height: 5.7rem;
+}
+#navbarNav{
+  justify-content: space-between;
+}
+nav a.nav-link {
+  font-size: 1rem;
+  letter-spacing: 0.0375rem;
+  cursor: pointer;
+}
+
+nav ul li {
+  text-transform: uppercase;
+}
+
+.navbar-nav li a {
+  margin-right: 0.75rem;
+  margin-left: 0.75rem;
+  color: var(--primary-black) !important;
+  border-top: 0.1875rem solid var(--primary-white);
+}
+
+/* .navbar-nav li a.active,
+.navbar-nav li a.active:focus {
+  border-top: 0.1875rem solid var(--primary-orange);
+} */
+
+.navbar-nav li a:hover {
+  border-top: 0.1875rem solid var(--primary-orange);
+}
+
+@media (max-width: 768px) {
+  .logo {
+    width: 7rem;
+  }
+  .navbar-nav{
+    display: flex;
+    flex-direction: row;
+    font-size: 1px;
+    
+  }
+  .navbar{
+    height:6.6rem;
+  }
+  
+}
