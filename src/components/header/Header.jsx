@@ -2,6 +2,7 @@ import React from 'react'
 import Particles from './Particles'
 import Typed from 'react-typed'
 import './header.css'
+import Resume from './PrakashST CV.pdf'
 
 const Header = () => {
   return (
@@ -25,7 +26,7 @@ const Header = () => {
         />
         <h3 className='home-txt'>From Tiruvannamalai,Tamil Nadu</h3>
         <p className='home-p-txt'>Explore my portfolio to witness my passion for web development in action.</p>
-        <a download={'prakashSTCV.pdf'} href='./prakashSTCV.pdf' className='btn-main-offer'>
+        <a download='prakashST.pdf' href={Resume} className='btn-main-offer'>
           Download
         </a>
       </div>
