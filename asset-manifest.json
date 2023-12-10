@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/prakashST/portfolio/static/css/main.1e0ac854.css",
+    "main.js": "/prakashST/portfolio/static/js/main.1f7ad7a1.js",
+    "static/js/787.73b4c438.chunk.js": "/prakashST/portfolio/static/js/787.73b4c438.chunk.js",
+    "static/media/PrakashST CV.pdf": "/prakashST/portfolio/static/media/PrakashST CV.f06f696baf4c2cfc77f3.pdf",
+    "static/media/me.jpg": "/prakashST/portfolio/static/media/me.e3a57eaf6f5cf7ac8a80.jpg",
+    "static/media/header_background.jpg": "/prakashST/portfolio/static/media/header_background.e6f680531dc4b957d1fd.jpg",
+    "static/media/logo.png": "/prakashST/portfolio/static/media/logo.fdfc2dd180cfd394e808.png",
+    "index.html": "/prakashST/portfolio/index.html",
+    "main.1e0ac854.css.map": "/prakashST/portfolio/static/css/main.1e0ac854.css.map",
+    "main.1f7ad7a1.js.map": "/prakashST/portfolio/static/js/main.1f7ad7a1.js.map",
+    "787.73b4c438.chunk.js.map": "/prakashST/portfolio/static/js/787.73b4c438.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e0ac854.css",
+    "static/js/main.1f7ad7a1.js"
+  ]
+}
